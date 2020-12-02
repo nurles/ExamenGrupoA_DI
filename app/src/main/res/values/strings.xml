@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ExamenGrupoA_DI</string>
+    <string name="recent">Recent</string>
+    <string name="todo">TODO</string>
+    <string name="images">Images</string>
+    <string name="audio">Audio</string>
+    <string name="documentos">Documentos</string>
+    <string name="videos">Videos</string>
+    <string name="browse_files_in_other_apps">BROWSE FILES IN OTHER APPS</string>
+    <string name="bug_reports">Bug reports</string>
+    <string name="drive">Drive</string>
+    <string name="system_traces">System traces</string>
+    <string name="recent_files_on_phone">RECENT FILES ON PHONE</string>
+    <string name="awb25wq_460s">awB25WQ_460s...</string>
+    <string name="_31_96_kb_4_15_am">31.96 kB 4:15 AM</string>
+</resources>
