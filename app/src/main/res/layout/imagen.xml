@@ -8,18 +8,21 @@
     android:layout_marginStart="10dp"
     android:layout_marginEnd="10dp"
     android:layout_weight="1"
+    android:gravity="center"
     android:layout_marginTop="20dp"
-    android:paddingBottom="10dp"
+    android:layout_marginBottom="5dp"
     android:background="@drawable/borde">
         <ImageView
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_weight="1"
             android:src="@mipmap/baby"
             android:contentDescription="@string/todo" />
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="horizontal">
+            android:orientation="horizontal"
+            android:layout_weight="1">
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -36,13 +39,13 @@
                 android:orientation="vertical"
                 android:layout_marginLeft="20dp">
                 <TextView
-                    android:layout_width="wrap_content"
+                    android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/awb25wq_460s"
                     android:textSize="14sp"
                     android:fontFamily="sans-serif-black"/>
                 <TextView
-                    android:layout_width="wrap_content"
+                    android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/_31_96_kb_4_15_am"
                     android:layout_marginBottom="5dp"
